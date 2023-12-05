@@ -1,0 +1,16 @@
+{
+  "name": "scraiper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "screenshot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "extra": "^0.2.1",
+    "openai": "^4.20.1",
+    "puppeteer": "^21.5.2"
+  }
+}
